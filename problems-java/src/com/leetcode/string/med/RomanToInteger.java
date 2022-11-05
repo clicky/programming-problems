@@ -10,7 +10,7 @@ public class RomanToInteger {
      Keep map of digits to int value
      Sum = 0
      Iterate left to right adding to sum
-     Trick: subraction is when previous digit is less than current
+     Trick: subtraction is when previous digit is less than current
 
      **/
 
